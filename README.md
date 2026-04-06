@@ -1,5 +1,5 @@
 # Spark-WordCount
-Assignment for CMPT 353
+Assignment for CMPT 353 - Computational Data Science
 
 This project implements a distributed WordCount application using PySpark. It reads text files from a directory, counts the occurrences of each word (ignoring case and punctuation), and outputs the results to a CSV file, sorted by descending frequency and alphabetically for ties.
 
